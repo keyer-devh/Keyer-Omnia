@@ -6,7 +6,6 @@ Atualmente estudando programação. Apaixonado por ciência e tecnologia, mexend
 🖌️ Animação 2D  
 🎨 Artes digitais  
 Sempre pronto para aprender e fazer algo novo
-# Estudando tudo isso de forma autodidata
 
 ---
 
